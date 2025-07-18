@@ -1,3 +1,4 @@
+#calculadora de duas parcelas
 expression = input("Expression: ")
 
 x_str, operator, z_str = expression.split()
