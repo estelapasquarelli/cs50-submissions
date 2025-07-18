@@ -1,3 +1,4 @@
+#remover letras específicas
 def remove_vowels(word):
     vowels = "aeiouAEIOU"
     return "".join(letter for letter in word if letter not in vowels)
