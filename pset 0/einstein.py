@@ -1,3 +1,4 @@
+#calculadora de energia em joule E=mc^2
 def energy_calculator(m):
     energy = m * 300000000 ** 2
     return energy
