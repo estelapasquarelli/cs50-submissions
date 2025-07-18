@@ -1,3 +1,4 @@
+#calculadora de troco
 def main():
     amount_due = 50
 
