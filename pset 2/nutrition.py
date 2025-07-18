@@ -1,3 +1,4 @@
+#relação entre valores de uma lista
 def main():
     item = {
         "apple": 130,
