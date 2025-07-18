@@ -1,3 +1,4 @@
+#conversor de camelCase para snake_case
 def camel_to_snake(text):
     result = []
     for char in text:
