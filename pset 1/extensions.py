@@ -1,3 +1,4 @@
+#identificador de arquivo
 file = int and str(input("File name: ")).strip().lower()
 
 if file.endswith(".gif"):
