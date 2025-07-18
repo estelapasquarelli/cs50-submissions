@@ -1,3 +1,4 @@
+#range e validação conforme diretrizes 
 def main():
     plate = input("Plate: ")
     if is_valid(plate):
