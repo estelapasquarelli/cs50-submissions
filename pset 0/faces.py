@@ -1,3 +1,4 @@
+#conversor de emoji
 def main():
     text = input()
     print(convert(text))
