@@ -17,13 +17,6 @@ cs50-python-submissions/
 └── final/ Projeto final (quando concluído)
 ```
 
-## 🚀 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreiraa. Tenho interesse especial em **desenvolvimento de software, ciência de dados e inteligência artificial**.
-
-Estou realizando este curso como parte do meu processo de formação técnica, e venho aplicando os conceitos em projetos práticos que me desafiam a resolver problemas de forma criativa.
-
-
 ## 📜 Certificado
 
 📚 Curso em andamento — o certificado será incluído aqui ao final da formação.
