@@ -7,14 +7,16 @@ O curso abrange os fundamentos da programação em Python, incluindo sintaxe, es
 ## 📂 Estrutura
 ```
 cs50-python-submissions/
-├── week0/ Functions, Conditionals
-├── week1/ Loops, Exceptions
-├── week2/ Libraries, Unit Tests
-├── week3/ File I/O, CSV, JSON
-├── week4/ Regular Expressions
-├── week5/ Object-Oriented Programming
-├── week6/ Flask & Web Apps
-└── final/ Projeto final (quando concluído)
+├── week0/ Functions, Variables
+├── week1/ Conditionals
+├── week2/ Loops
+├── week3/ Exceptions
+├── week4/ Libraries
+├── week5/ Unit Tests
+├── week6/ File I/O
+├── week7/ Regular Expressions
+├── week8/ Object-Oriented Programming
+└── week9/ Et Cetera
 ```
 
 ## 📜 Certificado
